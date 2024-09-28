@@ -1,0 +1,53 @@
+18:59:38.679 [main] INFO  testcases.SearchTests - Entering search text..
+18:59:40.393 [main] INFO  testcases.SearchTests - Clicking on search icon..
+18:59:42.116 [main] INFO  testcases.SearchTests - Clicking on sorting options dropdown..
+18:59:42.345 [main] INFO  testcases.SearchTests - Verifying the presence of the sorting options after search..
+18:59:42.474 [main] INFO  testcases.SearchTests - Sorting options are present
+18:59:42.476 [main] DEBUG testcases.SearchTests - Application debug logs ends...
+18:59:42.476 [main] INFO  testcases.SearchTests - **** Finished Verify_Presence_Of_Sorting_Options_After_Search  ****
+19:02:46.559 [main] INFO  testcases.SearchTests - **** Starting Verify_Display_Of_Specific_Number_Of_Search_Results *****
+19:02:46.562 [main] DEBUG testcases.SearchTests - capturing application debug logs....
+19:02:46.580 [main] INFO  testcases.SearchTests - Click on Sign-in button
+19:02:47.145 [main] INFO  testcases.SearchTests - Entering valid email and click on continue button ..
+19:02:47.506 [main] INFO  testcases.SearchTests - Entering valid password and click on sign-in button ..
+19:02:47.720 [main] INFO  testcases.SearchTests - Entering search text..
+19:02:49.402 [main] INFO  testcases.SearchTests - Clicking on search icon..
+19:02:51.584 [main] INFO  testcases.SearchTests - Checking the search result on the page..
+19:02:51.612 [main] INFO  testcases.SearchTests - Specific number of search results is displayed on one page
+19:02:51.615 [main] DEBUG testcases.SearchTests - Application debug logs ends...
+19:02:51.615 [main] INFO  testcases.SearchTests - **** Finished Verify_Display_Of_Specific_Number_Of_Search_Results  ****
+19:05:20.088 [main] INFO  testcases.SearchTests - **** Starting Verify_Presence_Of_Navigation_Buttons *****
+19:05:20.094 [main] DEBUG testcases.SearchTests - capturing application debug logs....
+19:05:20.108 [main] INFO  testcases.SearchTests - Click on Sign-in button
+19:05:20.506 [main] INFO  testcases.SearchTests - Entering valid email and click on continue button ..
+19:05:20.864 [main] INFO  testcases.SearchTests - Entering valid password and click on sign-in button ..
+19:05:21.079 [main] INFO  testcases.SearchTests - Entering search text..
+19:05:22.670 [main] INFO  testcases.SearchTests - Clicking on search icon..
+19:05:24.316 [main] INFO  testcases.SearchTests - Checking the presence of navigation buttons on the search result page..
+19:05:24.462 [main] INFO  testcases.SearchTests - Navigation buttons are present on the search result page
+19:05:24.462 [main] DEBUG testcases.SearchTests - Application debug logs ends...
+19:05:24.462 [main] INFO  testcases.SearchTests - **** Finished Verify_Presence_Of_Navigation_Buttons  ****
+19:08:33.134 [main] INFO  testcases.SearchTests - **** Starting Verify_Search_In_Different_Categories *****
+19:08:33.137 [main] DEBUG testcases.SearchTests - capturing application debug logs....
+19:08:33.151 [main] INFO  testcases.SearchTests - Click on Sign-in button
+19:08:33.574 [main] INFO  testcases.SearchTests - Entering valid email and click on continue button ..
+19:08:33.946 [main] INFO  testcases.SearchTests - Entering valid password and click on sign-in button ..
+19:08:34.190 [main] INFO  testcases.SearchTests - Selecting different category..
+19:08:36.212 [main] INFO  testcases.SearchTests - Clicking on search icon..
+19:08:37.504 [main] INFO  testcases.SearchTests - Checking if the selected category is displayed..
+19:08:37.547 [main] INFO  testcases.SearchTests - Selected category is displayed on the result page
+19:08:37.549 [main] DEBUG testcases.SearchTests - Application debug logs ends...
+19:08:37.549 [main] INFO  testcases.SearchTests - **** Finished Verify_Search_In_Different_Categories  ****
+19:14:27.098 [main] INFO  testcases.ProductDetailsTest - **** Starting Verify_Display_Of_Product_Images *****
+19:14:27.101 [main] DEBUG testcases.ProductDetailsTest - capturing application debug logs....
+19:14:27.115 [main] INFO  testcases.ProductDetailsTest - Click on Sign-in button
+19:14:27.538 [main] INFO  testcases.ProductDetailsTest - Entering valid email and click on continue button ..
+19:14:27.928 [main] INFO  testcases.ProductDetailsTest - Entering valid password and click on sign-in button ..
+19:14:28.140 [main] INFO  testcases.ProductDetailsTest - Clicking on a product displayed on home page..
+19:14:41.396 [main] INFO  testcases.ProductDetailsTest - Checking if the product images are displayed..
+19:14:41.446 [main] INFO  testcases.ProductDetailsTest - Images of the product are displayed
+19:14:41.449 [main] DEBUG testcases.ProductDetailsTest - Application debug logs ends...
+19:14:41.449 [main] INFO  testcases.ProductDetailsTest - **** Finished Verify_Display_Of_Product_Images  ****
+19:16:09.086 [main] INFO  testcases.ProductDetailsTest - **** Starting Verify_Display_Of_Product_Images *****
+19:16:09.090 [main] DEBUG testcases.ProductDetailsTest - capturing application debug logs....
+19:16:09.103 [main] INFO  testcases.ProductDetailsTest - Click on Sign-in button

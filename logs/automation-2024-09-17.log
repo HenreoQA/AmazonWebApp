@@ -1,0 +1,52 @@
+20:00:01.497 [main] DEBUG testcases.CartPageTest - Application debug logs ends...
+20:00:01.505 [main] INFO  testcases.CartPageTest - **** Finished Verify_Total_Amount_Of_Item_In_The_Cart  ****
+23:06:47.216 [main] INFO  testcases.CartPageTest - **** Starting Verify_Inclusion_Of_VAT_And_Shippingcharges_In_Total_Amount *****
+23:06:47.221 [main] DEBUG testcases.CartPageTest - capturing application debug logs....
+23:06:47.232 [main] INFO  testcases.CartPageTest - Click on Sign-in button
+23:06:47.602 [main] INFO  testcases.CartPageTest - Entering valid email and click on continue button ..
+23:06:47.970 [main] INFO  testcases.CartPageTest - Entering valid password and click on sign-in button ..
+23:06:48.182 [main] INFO  testcases.CartPageTest - Clicking on a product displayed on home page..
+23:07:00.771 [main] INFO  testcases.CartPageTest - Clicking on add to basket..
+23:07:03.995 [main] INFO  testcases.CartPageTest - Close the pop up..
+23:07:04.849 [main] INFO  testcases.CartPageTest - Clicking on cart button and proceed to checkout button..
+23:07:08.458 [main] INFO  testcases.CartPageTest - Clicking on use this address button and see details..
+23:07:11.037 [main] INFO  testcases.CartPageTest - Checking if VAT and shipping charges are included in the total amount..
+23:07:11.130 [main] INFO  testcases.CartPageTest - VAT and shipping charges are included in the total amount
+23:07:11.132 [main] DEBUG testcases.CartPageTest - Application debug logs ends...
+23:07:11.132 [main] INFO  testcases.CartPageTest - **** Finished Verify_Inclusion_Of_VAT_And_Shippingcharges_In_Total_Amount  ****
+23:41:11.266 [main] INFO  testcases.CartPageTest - **** Starting Verify_User_Cannot_Add_Item_Beyond_Certain_Limit *****
+23:41:11.271 [main] DEBUG testcases.CartPageTest - capturing application debug logs....
+23:41:11.285 [main] INFO  testcases.CartPageTest - Click on Sign-in button
+23:41:11.666 [main] INFO  testcases.CartPageTest - Entering valid email and click on continue button ..
+23:41:11.992 [main] INFO  testcases.CartPageTest - Entering valid password and click on sign-in button ..
+23:41:13.611 [main] INFO  testcases.CartPageTest - Clicking on a product displayed on home page..
+23:41:25.453 [main] INFO  testcases.CartPageTest - Selecting beyond limit..
+23:41:25.753 [main] INFO  testcases.CartPageTest - Checking if beyond limit message is displayed..
+23:41:35.803 [main] ERROR testcases.CartPageTest - test failure..
+23:41:35.803 [main] DEBUG testcases.CartPageTest - Application debug logs ends...
+23:41:35.803 [main] INFO  testcases.CartPageTest - **** Finished Verify_User_Cannot_Add_Item_Beyond_Certain_Limit  ****
+23:43:42.317 [main] INFO  testcases.CartPageTest - **** Starting Verify_User_Cannot_Add_Item_Beyond_Certain_Limit *****
+23:43:42.321 [main] DEBUG testcases.CartPageTest - capturing application debug logs....
+23:43:42.335 [main] INFO  testcases.CartPageTest - Click on Sign-in button
+23:43:42.745 [main] INFO  testcases.CartPageTest - Entering valid email and click on continue button ..
+23:43:43.104 [main] INFO  testcases.CartPageTest - Entering valid password and click on sign-in button ..
+23:43:43.335 [main] INFO  testcases.CartPageTest - Clicking on a product displayed on home page..
+23:43:54.137 [main] INFO  testcases.CartPageTest - Selecting beyond limit..
+23:43:54.422 [main] INFO  testcases.CartPageTest - Checking if beyond limit message is displayed..
+23:44:04.462 [main] ERROR testcases.CartPageTest - test failure..
+23:44:04.462 [main] DEBUG testcases.CartPageTest - Application debug logs ends...
+23:44:04.462 [main] INFO  testcases.CartPageTest - **** Finished Verify_User_Cannot_Add_Item_Beyond_Certain_Limit  ****
+00:02:48.054 [main] INFO  testcases.CartPageTest - **** Starting Verify_User_Cannot_Add_Item_Beyond_Certain_Limit *****
+00:02:48.060 [main] DEBUG testcases.CartPageTest - capturing application debug logs....
+00:02:48.073 [main] INFO  testcases.CartPageTest - Click on Sign-in button
+00:02:48.471 [main] INFO  testcases.CartPageTest - Entering valid email and click on continue button ..
+00:02:48.801 [main] INFO  testcases.CartPageTest - Entering valid password and click on sign-in button ..
+00:02:49.007 [main] INFO  testcases.CartPageTest - Clicking on a product displayed on home page..
+00:02:56.933 [main] INFO  testcases.CartPageTest - Selecting beyond limit..
+00:02:57.429 [main] INFO  testcases.CartPageTest - Checking if beyond limit message is displayed..
+00:03:07.519 [main] ERROR testcases.CartPageTest - test failure..
+00:03:07.519 [main] DEBUG testcases.CartPageTest - Application debug logs ends...
+00:03:07.519 [main] INFO  testcases.CartPageTest - **** Finished Verify_User_Cannot_Add_Item_Beyond_Certain_Limit  ****
+00:03:59.007 [main] INFO  testcases.CartPageTest - **** Starting Verify_User_Cannot_Add_Item_Beyond_Certain_Limit *****
+00:03:59.010 [main] DEBUG testcases.CartPageTest - capturing application debug logs....
+00:03:59.024 [main] INFO  testcases.CartPageTest - Click on Sign-in button

@@ -1,0 +1,51 @@
+00:19:37.008 [TestNG-tests-1] INFO  testcases.TC_HP_005 - Checking if homepage is displayed after login..
+00:19:37.020 [TestNG-tests-1] INFO  testcases.TC_HP_005 - Homepage is displayed on different browsers
+00:19:37.022 [TestNG-tests-1] DEBUG testcases.TC_HP_005 - Application debug logs ends...
+00:19:37.022 [TestNG-tests-1] INFO  testcases.TC_HP_005 - **** Finished Verify_Display_Of_Same_Homepage_On_Different_Browsers  ****
+00:21:47.965 [main] INFO  testcases.TC_HP_005 - **** Starting Verify_Display_Of_Same_Homepage_On_Different_Browsers  *****
+00:21:47.970 [main] DEBUG testcases.TC_HP_005 - capturing application debug logs....
+00:21:47.985 [main] INFO  testcases.TC_HP_005 - Click on Sign-in button
+00:21:48.374 [main] INFO  testcases.TC_HP_005 - Entering valid email and click on continue button ..
+00:21:48.703 [main] INFO  testcases.TC_HP_005 - Entering valid password and click on sign-in button ..
+00:21:50.338 [main] INFO  testcases.TC_HP_005 - Checking if homepage is displayed after login..
+00:21:50.356 [main] INFO  testcases.TC_HP_005 - Homepage is displayed on different browsers
+00:21:50.358 [main] DEBUG testcases.TC_HP_005 - Application debug logs ends...
+00:21:50.358 [main] INFO  testcases.TC_HP_005 - **** Finished Verify_Display_Of_Same_Homepage_On_Different_Browsers  ****
+01:36:45.577 [main] INFO  testcases.TC_HP_007 - **** Starting Verify_Product_On_Homepage_Is_Clickable  *****
+01:36:45.580 [main] DEBUG testcases.TC_HP_007 - capturing application debug logs....
+01:36:45.594 [main] INFO  testcases.TC_HP_007 - Click on Sign-in button
+01:36:46.046 [main] INFO  testcases.TC_HP_007 - Entering valid email and click on continue button ..
+01:36:46.374 [main] INFO  testcases.TC_HP_007 - Entering valid password and click on sign-in button ..
+01:36:46.574 [main] INFO  testcases.TC_HP_007 - Checking if products are displayed on homepage..
+01:36:47.894 [main] INFO  testcases.TC_HP_007 - Products are displayed on the homepage
+01:36:47.898 [main] INFO  testcases.TC_HP_007 - Clicking on the first product..
+01:37:00.678 [main] INFO  testcases.TC_HP_007 - Checking if product is redirected to product specification page after clicking on the product..
+01:37:00.744 [main] INFO  testcases.TC_HP_007 - Product is redirected to product specification page
+01:37:00.744 [main] DEBUG testcases.TC_HP_007 - Application debug logs ends...
+01:37:00.744 [main] INFO  testcases.TC_HP_007 - **** Finished Verify_Product_On_Homepage_Is_Clickable  ****
+01:37:42.588 [main] INFO  testcases.TC_HP_007 - **** Starting Verify_Product_On_Homepage_Is_Clickable  *****
+01:37:42.594 [main] DEBUG testcases.TC_HP_007 - capturing application debug logs....
+01:37:42.619 [main] INFO  testcases.TC_HP_007 - Click on Sign-in button
+01:37:43.002 [main] INFO  testcases.TC_HP_007 - Entering valid email and click on continue button ..
+01:37:43.323 [main] INFO  testcases.TC_HP_007 - Entering valid password and click on sign-in button ..
+01:37:43.556 [main] INFO  testcases.TC_HP_007 - Checking if products are displayed on homepage..
+01:37:44.849 [main] INFO  testcases.TC_HP_007 - Products are displayed on the homepage
+01:37:44.853 [main] INFO  testcases.TC_HP_007 - Clicking on the first product..
+01:37:53.939 [main] INFO  testcases.TC_HP_007 - Checking if product is redirected to product specification page after clicking on the product..
+01:37:54.039 [main] INFO  testcases.TC_HP_007 - Product is redirected to product specification page
+01:37:54.039 [main] DEBUG testcases.TC_HP_007 - Application debug logs ends...
+01:37:54.039 [main] INFO  testcases.TC_HP_007 - **** Finished Verify_Product_On_Homepage_Is_Clickable  ****
+22:41:48.589 [main] INFO  testcases.TC_HP_008 - **** Starting Verify_Display_Of_User_Profile_Section_On_Homepage  *****
+22:41:48.596 [main] DEBUG testcases.TC_HP_008 - capturing application debug logs....
+22:41:48.614 [main] INFO  testcases.TC_HP_008 - Click on Sign-in button
+22:41:49.000 [main] INFO  testcases.TC_HP_008 - Entering valid email and click on continue button ..
+22:41:49.455 [main] INFO  testcases.TC_HP_008 - Entering valid password and click on sign-in button ..
+22:41:49.573 [main] INFO  testcases.TC_HP_008 - Clicking on the username that is displayed on the homepage..
+22:41:51.373 [main] INFO  testcases.TC_HP_008 - Checking if user profile is displayed..
+22:41:51.409 [main] INFO  testcases.TC_HP_008 - User profile is displayed on the homepage
+22:41:51.411 [main] DEBUG testcases.TC_HP_008 - Application debug logs ends...
+22:41:51.411 [main] INFO  testcases.TC_HP_008 - **** Finished Verify_Display_Of_User_Profile_Section_On_Homepage  ****
+22:42:23.306 [main] INFO  testcases.TC_HP_008 - **** Starting Verify_Display_Of_User_Profile_Section_On_Homepage  *****
+22:42:23.310 [main] DEBUG testcases.TC_HP_008 - capturing application debug logs....
+22:42:23.331 [main] INFO  testcases.TC_HP_008 - Click on Sign-in button
+22:42:23.715 [main] INFO  testcases.TC_HP_008 - Entering valid email and click on continue button ..

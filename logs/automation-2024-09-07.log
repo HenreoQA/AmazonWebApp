@@ -1,0 +1,52 @@
+22:05:40.280 [main] INFO  testcases.TC_HP_003 - Click on Sign-in button
+22:05:40.702 [main] INFO  testcases.TC_HP_003 - Entering valid email and click on continue button ..
+22:05:41.061 [main] INFO  testcases.TC_HP_003 - Entering valid password and click on sign-in button ..
+22:05:43.412 [main] INFO  testcases.TC_HP_003 - Checking if featured products are displayed on homepage..
+22:05:43.425 [main] INFO  testcases.TC_HP_003 - Featured products are displayed on the homepage
+22:05:43.426 [main] DEBUG testcases.TC_HP_003 - Application debug logs ends...
+22:05:43.426 [main] INFO  testcases.TC_HP_003 - **** Finished Verify_Display_Of_FeaturedProducts_On_Homepage  ****
+22:11:01.711 [main] INFO  testcases.TC_HP_003 - **** Starting Verify_Display_Of_FeaturedProducts_On_Homepage  *****
+22:11:01.714 [main] DEBUG testcases.TC_HP_003 - capturing application debug logs....
+22:11:01.726 [main] INFO  testcases.TC_HP_003 - Click on Sign-in button
+22:11:23.224 [main] INFO  testcases.TC_HP_003 - Entering valid email and click on continue button ..
+22:11:23.725 [main] INFO  testcases.TC_HP_003 - Entering valid password and click on sign-in button ..
+22:11:25.457 [main] INFO  testcases.TC_HP_003 - Checking if featured products are displayed on homepage..
+22:11:25.516 [main] INFO  testcases.TC_HP_003 - Featured products are displayed on the homepage
+22:11:25.525 [main] DEBUG testcases.TC_HP_003 - Application debug logs ends...
+22:11:25.525 [main] INFO  testcases.TC_HP_003 - **** Finished Verify_Display_Of_FeaturedProducts_On_Homepage  ****
+22:12:44.341 [main] INFO  testcases.TC_HP_003 - **** Starting Verify_Display_Of_FeaturedProducts_On_Homepage  *****
+22:12:44.345 [main] DEBUG testcases.TC_HP_003 - capturing application debug logs....
+22:12:44.358 [main] INFO  testcases.TC_HP_003 - Click on Sign-in button
+22:12:44.728 [main] INFO  testcases.TC_HP_003 - Entering valid email and click on continue button ..
+22:12:45.045 [main] INFO  testcases.TC_HP_003 - Entering valid password and click on sign-in button ..
+22:12:45.312 [main] INFO  testcases.TC_HP_003 - Checking if featured products are displayed on homepage..
+22:12:46.781 [main] INFO  testcases.TC_HP_003 - Featured products are displayed on the homepage
+22:12:46.785 [main] DEBUG testcases.TC_HP_003 - Application debug logs ends...
+22:12:46.785 [main] INFO  testcases.TC_HP_003 - **** Finished Verify_Display_Of_FeaturedProducts_On_Homepage  ****
+22:14:29.121 [main] INFO  testcases.TC_HP_003 - **** Starting Verify_Display_Of_FeaturedProducts_On_Homepage  *****
+22:14:29.125 [main] DEBUG testcases.TC_HP_003 - capturing application debug logs....
+22:14:29.138 [main] INFO  testcases.TC_HP_003 - Click on Sign-in button
+22:14:52.594 [main] INFO  testcases.TC_HP_003 - Entering valid email and click on continue button ..
+22:14:53.147 [main] INFO  testcases.TC_HP_003 - Entering valid password and click on sign-in button ..
+22:15:19.412 [main] INFO  testcases.TC_HP_003 - Checking if featured products are displayed on homepage..
+22:15:19.474 [main] INFO  testcases.TC_HP_003 - Featured products are displayed on the homepage
+22:15:19.483 [main] DEBUG testcases.TC_HP_003 - Application debug logs ends...
+22:15:19.483 [main] INFO  testcases.TC_HP_003 - **** Finished Verify_Display_Of_FeaturedProducts_On_Homepage  ****
+22:32:01.794 [main] INFO  testcases.TC_HP_003 - **** Starting Verify_Display_Of_FeaturedProducts_On_Homepage  *****
+22:32:01.800 [main] DEBUG testcases.TC_HP_003 - capturing application debug logs....
+22:32:01.830 [main] INFO  testcases.TC_HP_003 - Click on Sign-in button
+22:32:02.221 [main] INFO  testcases.TC_HP_003 - Entering valid email and click on continue button ..
+22:32:02.552 [main] INFO  testcases.TC_HP_003 - Entering valid password and click on sign-in button ..
+22:32:02.761 [main] INFO  testcases.TC_HP_003 - Checking if featured products are displayed on homepage..
+22:32:04.150 [main] INFO  testcases.TC_HP_003 - Featured products are displayed on the homepage
+22:32:04.152 [main] DEBUG testcases.TC_HP_003 - Application debug logs ends...
+22:32:04.152 [main] INFO  testcases.TC_HP_003 - **** Finished Verify_Display_Of_FeaturedProducts_On_Homepage  ****
+23:44:12.232 [main] INFO  testcases.TC_HP_004 - **** Starting Verify_Display_Of_SearchFunctionality_On_Homepage  *****
+23:44:12.236 [main] DEBUG testcases.TC_HP_004 - capturing application debug logs....
+23:44:12.251 [main] INFO  testcases.TC_HP_004 - Click on Sign-in button
+23:44:12.649 [main] INFO  testcases.TC_HP_004 - Entering valid email and click on continue button ..
+23:44:12.963 [main] INFO  testcases.TC_HP_004 - Entering valid password and click on sign-in button ..
+23:44:13.169 [main] INFO  testcases.TC_HP_004 - Checking if search functionality is displayed on homepage..
+23:44:14.629 [main] INFO  testcases.TC_HP_004 - Search functionality is displayed on the homepage
+23:44:14.631 [main] DEBUG testcases.TC_HP_004 - Application debug logs ends...
+23:44:14.631 [main] INFO  testcases.TC_HP_004 - **** Finished Verify_Display_Of_SearchFunctionality_On_Homepage  ****

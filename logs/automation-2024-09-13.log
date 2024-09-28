@@ -1,0 +1,47 @@
+23:36:53.908 [main] INFO  testcases.PresenceOfNavigationButtons - Click on Sign-in button
+23:36:54.287 [main] INFO  testcases.PresenceOfNavigationButtons - Entering valid email and click on continue button ..
+23:36:54.596 [main] INFO  testcases.PresenceOfNavigationButtons - Entering valid password and click on sign-in button ..
+23:36:54.791 [main] INFO  testcases.PresenceOfNavigationButtons - Entering search text..
+23:36:56.420 [main] INFO  testcases.PresenceOfNavigationButtons - Clicking on search icon..
+23:36:58.128 [main] INFO  testcases.PresenceOfNavigationButtons - Checking the presence of navigation buttons on the search result page..
+23:36:58.262 [main] INFO  testcases.PresenceOfNavigationButtons - Navigation buttons are present on the search result page
+23:36:58.263 [main] DEBUG testcases.PresenceOfNavigationButtons - Application debug logs ends...
+23:36:58.263 [main] INFO  testcases.PresenceOfNavigationButtons - **** Finished Verify_Presence_Of_Navigation_Buttons  ****
+23:40:16.630 [main] INFO  testcases.SearchInDifferentCategories - **** Starting Verify_Search_In_Different_Categories *****
+23:40:16.635 [main] DEBUG testcases.SearchInDifferentCategories - capturing application debug logs....
+23:40:16.647 [main] INFO  testcases.SearchInDifferentCategories - Click on Sign-in button
+23:40:17.051 [main] INFO  testcases.SearchInDifferentCategories - Entering valid email and click on continue button ..
+23:40:17.417 [main] INFO  testcases.SearchInDifferentCategories - Entering valid password and click on sign-in button ..
+23:40:17.619 [main] INFO  testcases.SearchInDifferentCategories - Selecting different category..
+23:40:19.196 [main] INFO  testcases.SearchInDifferentCategories - Clicking on search icon..
+23:40:20.495 [main] INFO  testcases.SearchInDifferentCategories - Checking if the selected category is displayed..
+23:40:20.542 [main] INFO  testcases.SearchInDifferentCategories - Selected category is displayed on the result page
+23:40:20.544 [main] DEBUG testcases.SearchInDifferentCategories - Application debug logs ends...
+23:40:20.544 [main] INFO  testcases.SearchInDifferentCategories - **** Finished Verify_Search_In_Different_Categories  ****
+00:42:03.879 [main] INFO  testcases.DisplayOfProductImages - **** Starting Verify_Display_Of_Product_Images *****
+00:42:03.884 [main] DEBUG testcases.DisplayOfProductImages - capturing application debug logs....
+00:42:03.897 [main] INFO  testcases.DisplayOfProductImages - Click on Sign-in button
+00:42:04.303 [main] INFO  testcases.DisplayOfProductImages - Entering valid email and click on continue button ..
+00:42:04.646 [main] INFO  testcases.DisplayOfProductImages - Entering valid password and click on sign-in button ..
+00:42:04.865 [main] INFO  testcases.DisplayOfProductImages - Clicking on a product displayed on home page..
+00:42:21.608 [main] INFO  testcases.DisplayOfProductImages - Checking if the product images are displayed..
+00:42:21.643 [main] INFO  testcases.DisplayOfProductImages - Images of the product are displayed
+00:42:21.643 [main] DEBUG testcases.DisplayOfProductImages - Application debug logs ends...
+00:42:21.643 [main] INFO  testcases.DisplayOfProductImages - **** Finished Verify_Display_Of_Product_Images  ****
+00:43:22.548 [main] INFO  testcases.DisplayOfProductImages - **** Starting Verify_Display_Of_Product_Images *****
+00:43:22.554 [main] DEBUG testcases.DisplayOfProductImages - capturing application debug logs....
+00:43:22.575 [main] INFO  testcases.DisplayOfProductImages - Click on Sign-in button
+00:43:23.133 [main] INFO  testcases.DisplayOfProductImages - Entering valid email and click on continue button ..
+00:43:23.833 [main] INFO  testcases.DisplayOfProductImages - Entering valid password and click on sign-in button ..
+00:43:23.988 [main] INFO  testcases.DisplayOfProductImages - Clicking on a product displayed on home page..
+00:43:30.556 [main] INFO  testcases.DisplayOfProductImages - Checking if the product images are displayed..
+00:43:30.880 [main] INFO  testcases.DisplayOfProductImages - Images of the product are displayed
+00:43:30.881 [main] DEBUG testcases.DisplayOfProductImages - Application debug logs ends...
+00:43:30.882 [main] INFO  testcases.DisplayOfProductImages - **** Finished Verify_Display_Of_Product_Images  ****
+00:44:39.470 [main] INFO  testcases.DisplayOfProductImages - **** Starting Verify_Display_Of_Product_Images *****
+00:44:39.476 [main] DEBUG testcases.DisplayOfProductImages - capturing application debug logs....
+00:44:39.494 [main] INFO  testcases.DisplayOfProductImages - Click on Sign-in button
+00:44:39.945 [main] INFO  testcases.DisplayOfProductImages - Entering valid email and click on continue button ..
+00:44:40.272 [main] INFO  testcases.DisplayOfProductImages - Entering valid password and click on sign-in button ..
+00:44:40.527 [main] INFO  testcases.DisplayOfProductImages - Clicking on a product displayed on home page..
+00:44:54.331 [main] INFO  testcases.DisplayOfProductImages - Checking if the product images are displayed..

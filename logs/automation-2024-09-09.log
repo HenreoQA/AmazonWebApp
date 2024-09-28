@@ -1,0 +1,56 @@
+21:32:33.322 [main] INFO  testcases.TC_SF_002 - Click on Sign-in button
+21:32:33.695 [main] INFO  testcases.TC_SF_002 - Entering valid email and click on continue button ..
+21:32:33.997 [main] INFO  testcases.TC_SF_002 - Entering valid password and click on sign-in button ..
+21:32:34.188 [main] INFO  testcases.TC_SF_002 - Entering search text..
+21:32:35.802 [main] INFO  testcases.TC_SF_002 - Clicking on search icon..
+21:32:37.882 [main] INFO  testcases.TC_SF_002 - Verifying search result..
+21:32:37.918 [main] INFO  testcases.TC_SF_002 - Search is performed according to search text provided by user
+21:32:37.921 [main] DEBUG testcases.TC_SF_002 - Application debug logs ends...
+21:32:37.921 [main] INFO  testcases.TC_SF_002 - **** Finished Verify_Search_Result  ****
+21:32:57.843 [main] INFO  testcases.TC_SF_002 - **** Starting Verify_Search_Result  *****
+21:32:57.849 [main] DEBUG testcases.TC_SF_002 - capturing application debug logs....
+21:32:57.874 [main] INFO  testcases.TC_SF_002 - Click on Sign-in button
+21:32:58.249 [main] INFO  testcases.TC_SF_002 - Entering valid email and click on continue button ..
+21:32:58.578 [main] INFO  testcases.TC_SF_002 - Entering valid password and click on sign-in button ..
+21:32:58.776 [main] INFO  testcases.TC_SF_002 - Entering search text..
+21:33:00.420 [main] INFO  testcases.TC_SF_002 - Clicking on search icon..
+21:33:02.183 [main] INFO  testcases.TC_SF_002 - Verifying search result..
+21:33:02.191 [main] INFO  testcases.TC_SF_002 - Search is performed according to search text provided by user
+21:33:02.196 [main] DEBUG testcases.TC_SF_002 - Application debug logs ends...
+21:33:02.196 [main] INFO  testcases.TC_SF_002 - **** Finished Verify_Search_Result  ****
+22:14:08.122 [main] INFO  testcases.TC_SF_002 - **** Starting Verify_Search_Result  *****
+22:14:08.130 [main] DEBUG testcases.TC_SF_002 - capturing application debug logs....
+22:14:08.150 [main] INFO  testcases.TC_SF_002 - Click on Sign-in button
+22:14:08.523 [main] INFO  testcases.TC_SF_002 - Entering valid email and click on continue button ..
+22:14:08.829 [main] INFO  testcases.TC_SF_002 - Entering valid password and click on sign-in button ..
+22:14:09.002 [main] INFO  testcases.TC_SF_002 - Entering search text..
+22:14:10.496 [main] INFO  testcases.TC_SF_002 - Clicking on search icon..
+22:14:12.287 [main] INFO  testcases.TC_SF_002 - Verifying search result..
+22:14:12.295 [main] INFO  testcases.TC_SF_002 - Search is performed according to search text provided by user
+22:14:12.297 [main] DEBUG testcases.TC_SF_002 - Application debug logs ends...
+22:14:12.297 [main] INFO  testcases.TC_SF_002 - **** Finished Verify_Search_Result  ****
+22:58:17.607 [main] INFO  testcases.TC_SF_002 - **** Starting Verify_Product_Search_Result  *****
+22:58:17.611 [main] DEBUG testcases.TC_SF_002 - capturing application debug logs....
+22:58:17.624 [main] INFO  testcases.TC_SF_002 - Click on Sign-in button
+22:58:18.519 [main] INFO  testcases.TC_SF_002 - Entering valid email and click on continue button ..
+22:58:19.041 [main] INFO  testcases.TC_SF_002 - Entering valid password and click on sign-in button ..
+22:58:19.241 [main] INFO  testcases.TC_SF_002 - Entering search text..
+22:58:20.886 [main] INFO  testcases.TC_SF_002 - Clicking on search icon..
+22:58:23.340 [main] INFO  testcases.TC_SF_002 - Verifying search result..
+22:58:23.362 [main] INFO  testcases.TC_SF_002 - Search is performed according to search text provided by user
+22:58:23.367 [main] DEBUG testcases.TC_SF_002 - Application debug logs ends...
+22:58:23.367 [main] INFO  testcases.TC_SF_002 - **** Finished Verify_Product_Search_Result  ****
+23:16:45.523 [main] INFO  testcases.TC_SF_003 - **** Starting Verify_Product_Search_Based_On_Specification  *****
+23:16:45.525 [main] DEBUG testcases.TC_SF_003 - capturing application debug logs....
+23:16:45.539 [main] INFO  testcases.TC_SF_003 - Click on Sign-in button
+23:16:45.902 [main] INFO  testcases.TC_SF_003 - Entering valid email and click on continue button ..
+23:16:46.206 [main] INFO  testcases.TC_SF_003 - Entering valid password and click on sign-in button ..
+23:16:46.402 [main] INFO  testcases.TC_SF_003 - Entering search text..
+23:16:48.044 [main] INFO  testcases.TC_SF_003 - Clicking on search icon..
+23:16:49.475 [main] INFO  testcases.TC_SF_003 - Verifying product search result based on product name, brand name or specification..
+23:16:49.543 [main] INFO  testcases.TC_SF_003 - User was able to perform search based on product name, brand name or product specification
+23:16:49.545 [main] DEBUG testcases.TC_SF_003 - Application debug logs ends...
+23:16:49.546 [main] INFO  testcases.TC_SF_003 - **** Finished Verify_Product_Search_Based_On_Specification  ****
+23:17:25.644 [main] INFO  testcases.TC_SF_003 - **** Starting Verify_Product_Search_Based_On_Specification  *****
+23:17:25.652 [main] DEBUG testcases.TC_SF_003 - capturing application debug logs....
+23:17:25.670 [main] INFO  testcases.TC_SF_003 - Click on Sign-in button

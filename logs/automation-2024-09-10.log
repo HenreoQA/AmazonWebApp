@@ -1,0 +1,57 @@
+01:20:15.956 [main] INFO  testcases.TC_SF_005 - Entering valid email and click on continue button ..
+01:20:16.260 [main] INFO  testcases.TC_SF_005 - Entering valid password and click on sign-in button ..
+01:20:16.438 [main] INFO  testcases.TC_SF_005 - Entering search text..
+01:20:17.881 [main] INFO  testcases.TC_SF_005 - Clicking on search icon..
+01:20:20.136 [main] INFO  testcases.TC_SF_005 - Verifying the presence of the sorting options after search..
+01:20:30.214 [main] ERROR testcases.TC_SF_005 - test failure..
+01:20:30.214 [main] DEBUG testcases.TC_SF_005 - Application debug logs ends...
+01:20:30.214 [main] INFO  testcases.TC_SF_005 - **** Finished Verify_Sorting_Options_After_Search  ****
+01:20:50.040 [main] INFO  testcases.TC_SF_005 - **** Starting Verify_Sorting_Options_After_Search  *****
+01:20:50.046 [main] DEBUG testcases.TC_SF_005 - capturing application debug logs....
+01:20:50.058 [main] INFO  testcases.TC_SF_005 - Click on Sign-in button
+01:20:50.620 [main] INFO  testcases.TC_SF_005 - Entering valid email and click on continue button ..
+01:20:50.943 [main] INFO  testcases.TC_SF_005 - Entering valid password and click on sign-in button ..
+01:20:51.116 [main] INFO  testcases.TC_SF_005 - Entering search text..
+01:20:52.511 [main] INFO  testcases.TC_SF_005 - Clicking on search icon..
+01:20:52.674 [main] INFO  testcases.TC_SF_005 - Verifying the presence of the sorting options after search..
+01:21:02.721 [main] ERROR testcases.TC_SF_005 - test failure..
+01:21:02.721 [main] DEBUG testcases.TC_SF_005 - Application debug logs ends...
+01:21:02.721 [main] INFO  testcases.TC_SF_005 - **** Finished Verify_Sorting_Options_After_Search  ****
+01:21:20.511 [main] INFO  testcases.TC_SF_005 - **** Starting Verify_Sorting_Options_After_Search  *****
+01:21:20.515 [main] DEBUG testcases.TC_SF_005 - capturing application debug logs....
+01:21:20.527 [main] INFO  testcases.TC_SF_005 - Click on Sign-in button
+01:21:20.925 [main] INFO  testcases.TC_SF_005 - Entering valid email and click on continue button ..
+01:21:21.275 [main] INFO  testcases.TC_SF_005 - Entering valid password and click on sign-in button ..
+01:21:21.456 [main] INFO  testcases.TC_SF_005 - Entering search text..
+01:21:22.999 [main] INFO  testcases.TC_SF_005 - Clicking on search icon..
+01:21:23.158 [main] INFO  testcases.TC_SF_005 - Verifying the presence of the sorting options after search..
+01:21:33.217 [main] ERROR testcases.TC_SF_005 - test failure..
+01:21:33.218 [main] DEBUG testcases.TC_SF_005 - Application debug logs ends...
+01:21:33.218 [main] INFO  testcases.TC_SF_005 - **** Finished Verify_Sorting_Options_After_Search  ****
+01:23:53.683 [main] INFO  testcases.TC_SF_004 - **** Starting Verify_Filters_After_Search  *****
+01:23:53.687 [main] DEBUG testcases.TC_SF_004 - capturing application debug logs....
+01:23:53.697 [main] INFO  testcases.TC_SF_004 - Click on Sign-in button
+01:23:54.055 [main] INFO  testcases.TC_SF_004 - Entering valid email and click on continue button ..
+01:23:54.355 [main] INFO  testcases.TC_SF_004 - Entering valid password and click on sign-in button ..
+01:23:54.531 [main] INFO  testcases.TC_SF_004 - Entering search text..
+01:23:56.006 [main] INFO  testcases.TC_SF_004 - Clicking on search icon..
+01:23:57.626 [main] INFO  testcases.TC_SF_004 - Verifying the presence of the product filter after search..
+01:23:57.797 [main] INFO  testcases.TC_SF_004 - Product filters are present
+01:23:57.807 [main] DEBUG testcases.TC_SF_004 - Application debug logs ends...
+01:23:57.807 [main] INFO  testcases.TC_SF_004 - **** Finished Verify_Filters_After_Search  ****
+01:24:34.724 [main] INFO  testcases.TC_SF_005 - **** Starting Verify_Sorting_Options_After_Search  *****
+01:24:34.727 [main] DEBUG testcases.TC_SF_005 - capturing application debug logs....
+01:24:34.744 [main] INFO  testcases.TC_SF_005 - Click on Sign-in button
+01:24:35.120 [main] INFO  testcases.TC_SF_005 - Entering valid email and click on continue button ..
+01:24:35.418 [main] INFO  testcases.TC_SF_005 - Entering valid password and click on sign-in button ..
+01:24:35.593 [main] INFO  testcases.TC_SF_005 - Entering search text..
+01:24:37.029 [main] INFO  testcases.TC_SF_005 - Clicking on search icon..
+01:24:37.165 [main] INFO  testcases.TC_SF_005 - Verifying the presence of the sorting options after search..
+01:24:47.185 [main] ERROR testcases.TC_SF_005 - test failure..
+01:24:47.185 [main] DEBUG testcases.TC_SF_005 - Application debug logs ends...
+01:24:47.185 [main] INFO  testcases.TC_SF_005 - **** Finished Verify_Sorting_Options_After_Search  ****
+01:26:07.308 [main] INFO  testcases.TC_SF_005 - **** Starting Verify_Sorting_Options_After_Search  *****
+01:26:07.311 [main] DEBUG testcases.TC_SF_005 - capturing application debug logs....
+01:26:07.324 [main] INFO  testcases.TC_SF_005 - Click on Sign-in button
+01:26:07.702 [main] INFO  testcases.TC_SF_005 - Entering valid email and click on continue button ..
+01:26:07.999 [main] INFO  testcases.TC_SF_005 - Entering valid password and click on sign-in button ..

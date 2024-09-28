@@ -1,0 +1,42 @@
+23:35:00.490 [main] INFO  testcases.DisplayOfSpecificNumberOfSearchResults - Entering valid password and click on sign-in button ..
+23:35:00.707 [main] INFO  testcases.DisplayOfSpecificNumberOfSearchResults - Entering search text..
+23:35:02.280 [main] INFO  testcases.DisplayOfSpecificNumberOfSearchResults - Clicking on search icon..
+23:35:03.742 [main] INFO  testcases.DisplayOfSpecificNumberOfSearchResults - Checking the search result on the page..
+23:35:03.772 [main] INFO  testcases.DisplayOfSpecificNumberOfSearchResults - Specific number of search results is displayed on one page
+23:35:03.772 [main] DEBUG testcases.DisplayOfSpecificNumberOfSearchResults - Application debug logs ends...
+23:35:03.772 [main] INFO  testcases.DisplayOfSpecificNumberOfSearchResults - **** Finished Verify_Display_Of_Specific_Number_Of_Search_Results  ****
+23:36:18.153 [main] INFO  testcases.DisplayOfSpecificNumberOfSearchResults - **** Starting Verify_Display_Of_Specific_Number_Of_Search_Results *****
+23:36:18.156 [main] DEBUG testcases.DisplayOfSpecificNumberOfSearchResults - capturing application debug logs....
+23:36:18.168 [main] INFO  testcases.DisplayOfSpecificNumberOfSearchResults - Click on Sign-in button
+23:36:18.582 [main] INFO  testcases.DisplayOfSpecificNumberOfSearchResults - Entering valid email and click on continue button ..
+23:36:18.926 [main] INFO  testcases.DisplayOfSpecificNumberOfSearchResults - Entering valid password and click on sign-in button ..
+23:36:19.121 [main] INFO  testcases.DisplayOfSpecificNumberOfSearchResults - Entering search text..
+23:36:20.702 [main] INFO  testcases.DisplayOfSpecificNumberOfSearchResults - Clicking on search icon..
+23:36:22.329 [main] INFO  testcases.DisplayOfSpecificNumberOfSearchResults - Checking the search result on the page..
+23:36:22.358 [main] INFO  testcases.DisplayOfSpecificNumberOfSearchResults - Specific number of search results is displayed on one page
+23:36:22.364 [main] DEBUG testcases.DisplayOfSpecificNumberOfSearchResults - Application debug logs ends...
+23:36:22.364 [main] INFO  testcases.DisplayOfSpecificNumberOfSearchResults - **** Finished Verify_Display_Of_Specific_Number_Of_Search_Results  ****
+23:36:25.263 [main] INFO  testcases.PresenceOfNavigationButtons - **** Starting Verify_Presence_Of_Navigation_Buttons *****
+23:36:25.263 [main] DEBUG testcases.PresenceOfNavigationButtons - capturing application debug logs....
+23:36:25.264 [main] INFO  testcases.PresenceOfNavigationButtons - Click on Sign-in button
+23:36:25.678 [main] INFO  testcases.PresenceOfNavigationButtons - Entering valid email and click on continue button ..
+23:36:26.000 [main] INFO  testcases.PresenceOfNavigationButtons - Entering valid password and click on sign-in button ..
+23:36:27.732 [main] INFO  testcases.PresenceOfNavigationButtons - Entering search text..
+23:36:27.879 [main] INFO  testcases.PresenceOfNavigationButtons - Clicking on search icon..
+23:36:30.445 [main] INFO  testcases.PresenceOfNavigationButtons - Checking the presence of navigation buttons on the search result page..
+23:36:30.527 [main] INFO  testcases.PresenceOfNavigationButtons - Navigation buttons are present on the search result page
+23:36:30.527 [main] DEBUG testcases.PresenceOfNavigationButtons - Application debug logs ends...
+23:36:30.527 [main] INFO  testcases.PresenceOfNavigationButtons - **** Finished Verify_Presence_Of_Navigation_Buttons  ****
+23:36:47.271 [main] INFO  testcases.DisplayOfSpecificNumberOfSearchResults - **** Starting Verify_Display_Of_Specific_Number_Of_Search_Results *****
+23:36:47.274 [main] DEBUG testcases.DisplayOfSpecificNumberOfSearchResults - capturing application debug logs....
+23:36:47.287 [main] INFO  testcases.DisplayOfSpecificNumberOfSearchResults - Click on Sign-in button
+23:36:47.679 [main] INFO  testcases.DisplayOfSpecificNumberOfSearchResults - Entering valid email and click on continue button ..
+23:36:48.018 [main] INFO  testcases.DisplayOfSpecificNumberOfSearchResults - Entering valid password and click on sign-in button ..
+23:36:48.249 [main] INFO  testcases.DisplayOfSpecificNumberOfSearchResults - Entering search text..
+23:36:49.994 [main] INFO  testcases.DisplayOfSpecificNumberOfSearchResults - Clicking on search icon..
+23:36:51.490 [main] INFO  testcases.DisplayOfSpecificNumberOfSearchResults - Checking the search result on the page..
+23:36:51.512 [main] INFO  testcases.DisplayOfSpecificNumberOfSearchResults - Specific number of search results is displayed on one page
+23:36:51.515 [main] DEBUG testcases.DisplayOfSpecificNumberOfSearchResults - Application debug logs ends...
+23:36:51.515 [main] INFO  testcases.DisplayOfSpecificNumberOfSearchResults - **** Finished Verify_Display_Of_Specific_Number_Of_Search_Results  ****
+23:36:53.907 [main] INFO  testcases.PresenceOfNavigationButtons - **** Starting Verify_Presence_Of_Navigation_Buttons *****
+23:36:53.908 [main] DEBUG testcases.PresenceOfNavigationButtons - capturing application debug logs....

@@ -1,0 +1,52 @@
+05:54:59.833 [main] INFO  testcases.CartPageTest - Clicking on a product displayed on home page..
+05:55:13.398 [main] INFO  testcases.CartPageTest - Clicking on add to basket..
+05:55:16.824 [main] INFO  testcases.CartPageTest - Close the pop up..
+05:55:22.723 [main] INFO  testcases.CartPageTest - Moving the mouse cursor over the account list and click on signout..
+05:55:22.729 [main] ERROR testcases.CartPageTest - test failure..
+05:55:22.729 [main] DEBUG testcases.CartPageTest - Application debug logs ends...
+05:55:22.729 [main] INFO  testcases.CartPageTest - **** Finished Verify_Presence_Of_Item_in_Cart_When_User_Logout_And_Login_Again  ****
+06:00:29.945 [main] INFO  testcases.CartPageTest - **** Starting Verify_Presence_Of_Item_in_Cart_When_User_Logout_And_Login_Again *****
+06:00:29.951 [main] DEBUG testcases.CartPageTest - capturing application debug logs....
+06:00:29.963 [main] INFO  testcases.CartPageTest - Click on Sign-in button
+06:00:30.348 [main] INFO  testcases.CartPageTest - Entering valid email and click on continue button ..
+06:00:30.739 [main] INFO  testcases.CartPageTest - Entering valid password and click on sign-in button ..
+06:00:30.951 [main] INFO  testcases.CartPageTest - Clicking on a product displayed on home page..
+06:00:43.750 [main] INFO  testcases.CartPageTest - Clicking on add to basket..
+06:00:46.987 [main] INFO  testcases.CartPageTest - Close the pop up..
+06:00:50.819 [main] INFO  testcases.CartPageTest - Moving the mouse cursor over the account list and click on signout..
+06:00:51.597 [main] INFO  testcases.CartPageTest - Log in again..
+06:00:52.122 [main] INFO  testcases.CartPageTest - Checking if the item is still present in cart..
+06:00:53.411 [main] INFO  testcases.CartPageTest - Item is present in cart
+06:00:53.414 [main] DEBUG testcases.CartPageTest - Application debug logs ends...
+06:00:53.414 [main] INFO  testcases.CartPageTest - **** Finished Verify_Presence_Of_Item_in_Cart_When_User_Logout_And_Login_Again  ****
+06:02:04.037 [main] INFO  testcases.CartPageTest - **** Starting Verify_Presence_Of_Item_in_Cart_When_User_Logout_And_Login_Again *****
+06:02:04.042 [main] DEBUG testcases.CartPageTest - capturing application debug logs....
+06:02:04.057 [main] INFO  testcases.CartPageTest - Click on Sign-in button
+06:02:04.425 [main] INFO  testcases.CartPageTest - Entering valid email and click on continue button ..
+06:02:04.785 [main] INFO  testcases.CartPageTest - Entering valid password and click on sign-in button ..
+06:02:04.993 [main] INFO  testcases.CartPageTest - Clicking on a product displayed on home page..
+06:02:18.020 [main] INFO  testcases.CartPageTest - Clicking on add to basket..
+06:02:21.282 [main] INFO  testcases.CartPageTest - Close the pop up..
+06:02:25.090 [main] INFO  testcases.CartPageTest - Moving the mouse cursor over the account list and click on signout..
+06:02:25.818 [main] INFO  testcases.CartPageTest - Log in again..
+06:02:26.362 [main] INFO  testcases.CartPageTest - Checking if the item is still present in cart..
+06:02:27.570 [main] INFO  testcases.CartPageTest - Item is present in cart
+06:02:27.573 [main] DEBUG testcases.CartPageTest - Application debug logs ends...
+06:02:27.573 [main] INFO  testcases.CartPageTest - **** Finished Verify_Presence_Of_Item_in_Cart_When_User_Logout_And_Login_Again  ****
+06:04:12.375 [main] INFO  testcases.CartPageTest - **** Starting Verify_Presence_Of_Item_in_Cart_When_User_Logout_And_Login_Again *****
+06:04:12.378 [main] DEBUG testcases.CartPageTest - capturing application debug logs....
+06:04:12.390 [main] INFO  testcases.CartPageTest - Click on Sign-in button
+06:04:12.810 [main] INFO  testcases.CartPageTest - Entering valid email and click on continue button ..
+06:04:13.218 [main] INFO  testcases.CartPageTest - Entering valid password and click on sign-in button ..
+06:04:13.420 [main] INFO  testcases.CartPageTest - Clicking on a product displayed on home page..
+06:04:20.078 [main] INFO  testcases.CartPageTest - Clicking on add to basket..
+06:04:24.111 [main] INFO  testcases.CartPageTest - Close the pop up..
+06:04:34.144 [main] ERROR testcases.CartPageTest - test failure..
+06:04:34.144 [main] DEBUG testcases.CartPageTest - Application debug logs ends...
+06:04:34.144 [main] INFO  testcases.CartPageTest - **** Finished Verify_Presence_Of_Item_in_Cart_When_User_Logout_And_Login_Again  ****
+06:05:44.241 [main] INFO  testcases.CartPageTest - **** Starting Verify_Presence_Of_Item_in_Cart_When_User_Logout_And_Login_Again *****
+06:05:44.246 [main] DEBUG testcases.CartPageTest - capturing application debug logs....
+06:05:44.258 [main] INFO  testcases.CartPageTest - Click on Sign-in button
+06:05:44.607 [main] INFO  testcases.CartPageTest - Entering valid email and click on continue button ..
+06:05:44.949 [main] INFO  testcases.CartPageTest - Entering valid password and click on sign-in button ..
+06:05:45.149 [main] INFO  testcases.CartPageTest - Clicking on a product displayed on home page..

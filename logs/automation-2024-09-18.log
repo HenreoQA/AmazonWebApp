@@ -1,0 +1,55 @@
+23:05:37.553 [main] INFO  testcases.CartPageTest - Clicking on add to basket..
+23:05:40.832 [main] INFO  testcases.CartPageTest - Close the pop up..
+23:05:42.162 [main] INFO  testcases.CartPageTest - Clicking on the cart button..
+23:05:43.322 [main] INFO  testcases.CartPageTest - Selecting 5 items from the dropdown..
+23:05:43.542 [main] INFO  testcases.CartPageTest - Checking if beyond limit confirmation message is displayed..
+23:05:44.120 [main] INFO  testcases.CartPageTest - Product is not added to basket
+23:05:44.122 [main] DEBUG testcases.CartPageTest - Application debug logs ends...
+23:05:44.122 [main] INFO  testcases.CartPageTest - **** Finished Verify_User_Cannot_Add_Item_Beyond_Certain_Limit  ****
+23:07:15.748 [main] INFO  testcases.CartPageTest - **** Starting Verify_User_Cannot_Add_Item_Beyond_Certain_Limit *****
+23:07:15.754 [main] DEBUG testcases.CartPageTest - capturing application debug logs....
+23:07:15.764 [main] INFO  testcases.CartPageTest - Click on Sign-in button
+23:07:16.160 [main] INFO  testcases.CartPageTest - Entering valid email and click on continue button ..
+23:07:16.520 [main] INFO  testcases.CartPageTest - Entering valid password and click on sign-in button ..
+23:07:18.170 [main] INFO  testcases.CartPageTest - Clicking on a product displayed on home page..
+23:07:28.612 [main] INFO  testcases.CartPageTest - Clicking on add to basket..
+23:07:31.858 [main] INFO  testcases.CartPageTest - Close the pop up..
+23:07:32.753 [main] INFO  testcases.CartPageTest - Clicking on the cart button..
+23:07:33.724 [main] INFO  testcases.CartPageTest - Selecting 5 items from the dropdown..
+23:07:33.976 [main] INFO  testcases.CartPageTest - Checking if beyond limit confirmation message is displayed..
+23:07:34.477 [main] INFO  testcases.CartPageTest - Product is not added to basket
+23:07:34.485 [main] DEBUG testcases.CartPageTest - Application debug logs ends...
+23:07:34.485 [main] INFO  testcases.CartPageTest - **** Finished Verify_User_Cannot_Add_Item_Beyond_Certain_Limit  ****
+23:22:37.095 [main] INFO  testcases.CartPageTest - **** Starting Verify_User_Can_Remove_Item_From_Cart *****
+23:22:37.100 [main] DEBUG testcases.CartPageTest - capturing application debug logs....
+23:22:37.117 [main] INFO  testcases.CartPageTest - Click on Sign-in button
+23:22:37.546 [main] INFO  testcases.CartPageTest - Entering valid email and click on continue button ..
+23:22:37.943 [main] INFO  testcases.CartPageTest - Entering valid password and click on sign-in button ..
+23:22:38.217 [main] INFO  testcases.CartPageTest - Clicking on a product displayed on home page..
+23:22:52.448 [main] INFO  testcases.CartPageTest - Clicking on add to basket..
+23:22:55.720 [main] INFO  testcases.CartPageTest - Close the pop up..
+23:22:56.793 [main] INFO  testcases.CartPageTest - Clicking on the cart button..
+23:22:57.740 [main] INFO  testcases.CartPageTest - Removing item from the cart..
+23:23:07.789 [main] ERROR testcases.CartPageTest - test failure..
+23:23:07.789 [main] DEBUG testcases.CartPageTest - Application debug logs ends...
+23:23:07.789 [main] INFO  testcases.CartPageTest - **** Finished Verify_User_Can_Remove_Item_From_Cart  ****
+23:28:11.163 [main] INFO  testcases.CartPageTest - **** Starting Verify_User_Can_Remove_Item_From_Cart *****
+23:28:11.168 [main] DEBUG testcases.CartPageTest - capturing application debug logs....
+23:28:11.185 [main] INFO  testcases.CartPageTest - Click on Sign-in button
+23:28:11.562 [main] INFO  testcases.CartPageTest - Entering valid email and click on continue button ..
+23:28:11.956 [main] INFO  testcases.CartPageTest - Entering valid password and click on sign-in button ..
+23:28:13.785 [main] INFO  testcases.CartPageTest - Clicking on a product displayed on home page..
+23:28:19.477 [main] INFO  testcases.CartPageTest - Clicking on add to basket..
+23:28:22.846 [main] INFO  testcases.CartPageTest - Close the pop up..
+23:28:23.911 [main] INFO  testcases.CartPageTest - Clicking on the cart button..
+23:28:25.017 [main] INFO  testcases.CartPageTest - Removing item from the cart..
+23:28:25.177 [main] INFO  testcases.CartPageTest - Checking if empty cart confirmation message is displayed..
+23:28:25.427 [main] INFO  testcases.CartPageTest - Item is removed from cart
+23:28:25.429 [main] DEBUG testcases.CartPageTest - Application debug logs ends...
+23:28:25.429 [main] INFO  testcases.CartPageTest - **** Finished Verify_User_Can_Remove_Item_From_Cart  ****
+23:30:08.380 [main] INFO  testcases.CartPageTest - **** Starting Verify_User_Can_Remove_Item_From_Cart *****
+23:30:08.386 [main] DEBUG testcases.CartPageTest - capturing application debug logs....
+23:30:08.402 [main] INFO  testcases.CartPageTest - Click on Sign-in button
+23:30:08.773 [main] INFO  testcases.CartPageTest - Entering valid email and click on continue button ..
+23:30:09.109 [main] INFO  testcases.CartPageTest - Entering valid password and click on sign-in button ..
+23:30:09.366 [main] INFO  testcases.CartPageTest - Clicking on a product displayed on home page..

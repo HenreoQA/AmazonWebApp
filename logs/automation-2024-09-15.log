@@ -1,0 +1,50 @@
+20:21:38.340 [main] INFO  testcases.ProductDetailsTest - Clicking on a product displayed on home page..
+20:21:49.900 [main] INFO  testcases.ProductDetailsTest - Checking if stock information are displayed..
+20:21:49.969 [main] INFO  testcases.ProductDetailsTest - Stock information are displayed
+20:21:49.972 [main] DEBUG testcases.ProductDetailsTest - Application debug logs ends...
+20:21:49.972 [main] INFO  testcases.ProductDetailsTest - **** Finished Verify_Display_Of_Stock_Information ****
+20:23:02.020 [main] INFO  testcases.ProductDetailsTest - **** Starting Verify_Display_Of_Stock_Information *****
+20:23:02.094 [main] DEBUG testcases.ProductDetailsTest - capturing application debug logs....
+20:23:02.112 [main] INFO  testcases.ProductDetailsTest - Click on Sign-in button
+20:23:03.720 [main] INFO  testcases.ProductDetailsTest - Entering valid email and click on continue button ..
+20:23:04.073 [main] INFO  testcases.ProductDetailsTest - Entering valid password and click on sign-in button ..
+20:23:04.301 [main] INFO  testcases.ProductDetailsTest - Clicking on a product displayed on home page..
+20:23:15.104 [main] INFO  testcases.ProductDetailsTest - Checking if stock information are displayed..
+20:23:15.191 [main] INFO  testcases.ProductDetailsTest - Stock information are displayed
+20:23:15.194 [main] DEBUG testcases.ProductDetailsTest - Application debug logs ends...
+20:23:15.194 [main] INFO  testcases.ProductDetailsTest - **** Finished Verify_Display_Of_Stock_Information ****
+20:47:27.368 [main] INFO  testcases.ProductDetailsTest - **** Starting Verify_Display_Of_Seller_Ratings *****
+20:47:27.372 [main] DEBUG testcases.ProductDetailsTest - capturing application debug logs....
+20:47:27.395 [main] INFO  testcases.ProductDetailsTest - Click on Sign-in button
+20:47:28.225 [main] INFO  testcases.ProductDetailsTest - Entering valid email and click on continue button ..
+20:47:28.608 [main] INFO  testcases.ProductDetailsTest - Entering valid password and click on sign-in button ..
+20:47:28.911 [main] INFO  testcases.ProductDetailsTest - Clicking on a product displayed on home page..
+20:47:42.079 [main] INFO  testcases.ProductDetailsTest - Checking if seller rating is displayed..
+20:47:42.159 [main] INFO  testcases.ProductDetailsTest - Seller ratings are displayed
+20:47:42.163 [main] DEBUG testcases.ProductDetailsTest - Application debug logs ends...
+20:47:42.163 [main] INFO  testcases.ProductDetailsTest - **** Finished Verify_Display_Of_Seller_Ratings ****
+20:53:48.245 [main] INFO  testcases.ProductDetailsTest - **** Starting Verify_Display_Of_Seller_Ratings *****
+20:53:48.250 [main] DEBUG testcases.ProductDetailsTest - capturing application debug logs....
+20:53:48.266 [main] INFO  testcases.ProductDetailsTest - Click on Sign-in button
+20:54:11.780 [main] INFO  testcases.ProductDetailsTest - Entering valid email and click on continue button ..
+20:54:49.421 [main] INFO  testcases.ProductDetailsTest - Entering valid password and click on sign-in button ..
+20:54:57.609 [main] ERROR testcases.ProductDetailsTest - test failure..
+20:54:57.609 [main] DEBUG testcases.ProductDetailsTest - Application debug logs ends...
+20:54:57.609 [main] INFO  testcases.ProductDetailsTest - **** Finished Verify_Display_Of_Seller_Ratings ****
+20:55:44.604 [main] INFO  testcases.ProductDetailsTest - **** Starting Verify_Display_Of_Seller_Ratings *****
+20:55:44.609 [main] DEBUG testcases.ProductDetailsTest - capturing application debug logs....
+20:55:44.620 [main] INFO  testcases.ProductDetailsTest - Click on Sign-in button
+20:55:45.009 [main] INFO  testcases.ProductDetailsTest - Entering valid email and click on continue button ..
+20:55:45.421 [main] INFO  testcases.ProductDetailsTest - Entering valid password and click on sign-in button ..
+20:55:45.715 [main] INFO  testcases.ProductDetailsTest - Clicking on a product displayed on home page..
+20:55:57.869 [main] INFO  testcases.ProductDetailsTest - Checking if seller rating is displayed..
+20:55:57.936 [main] INFO  testcases.ProductDetailsTest - Seller ratings are displayed
+20:55:57.936 [main] DEBUG testcases.ProductDetailsTest - Application debug logs ends...
+20:55:57.936 [main] INFO  testcases.ProductDetailsTest - **** Finished Verify_Display_Of_Seller_Ratings ****
+23:17:58.933 [main] INFO  testcases.ProductDetailsTest - **** Starting Verify_Display_Of_Product_Variation *****
+23:17:58.938 [main] DEBUG testcases.ProductDetailsTest - capturing application debug logs....
+23:17:58.950 [main] INFO  testcases.ProductDetailsTest - Click on Sign-in button
+23:17:59.367 [main] INFO  testcases.ProductDetailsTest - Entering valid email and click on continue button ..
+23:17:59.701 [main] INFO  testcases.ProductDetailsTest - Entering valid password and click on sign-in button ..
+23:17:59.892 [main] INFO  testcases.ProductDetailsTest - Clicking on a product displayed on home page..
+23:18:09.814 [main] INFO  testcases.ProductDetailsTest - Checking if seller rating is displayed..

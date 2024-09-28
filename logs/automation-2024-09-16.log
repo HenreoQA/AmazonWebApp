@@ -1,0 +1,55 @@
+19:19:32.701 [main] INFO  testcases.CartPageTest - Selecting more quantity..
+19:19:32.980 [main] INFO  testcases.CartPageTest - Checking if the quantity of the product is increased..
+19:19:33.064 [main] INFO  testcases.CartPageTest - Quantity of the product is not increased
+19:21:51.998 [main] INFO  testcases.CartPageTest - **** Starting Verify_User_Can_Increase_Product_Quantity *****
+19:21:52.005 [main] DEBUG testcases.CartPageTest - capturing application debug logs....
+19:21:52.016 [main] INFO  testcases.CartPageTest - Click on Sign-in button
+19:21:52.441 [main] INFO  testcases.CartPageTest - Entering valid email and click on continue button ..
+19:21:52.862 [main] INFO  testcases.CartPageTest - Entering valid password and click on sign-in button ..
+19:21:53.135 [main] INFO  testcases.CartPageTest - Clicking on a product displayed on home page..
+19:22:04.858 [main] INFO  testcases.CartPageTest - Clicking on add to basket..
+19:22:08.092 [main] INFO  testcases.CartPageTest - Close the pop up..
+19:22:09.083 [main] INFO  testcases.CartPageTest - Clicking on cart button..
+19:22:43.175 [main] INFO  testcases.CartPageTest - Selecting more quantity..
+19:22:46.425 [main] INFO  testcases.CartPageTest - Checking if the quantity of the product is increased..
+19:22:46.480 [main] INFO  testcases.CartPageTest - Quantity of the product is increased
+19:22:46.480 [main] DEBUG testcases.CartPageTest - Application debug logs ends...
+19:22:46.480 [main] INFO  testcases.CartPageTest - **** Finished Verify_User_Can_Increase_Product_Quantity  ****
+19:26:26.781 [main] INFO  testcases.CartPageTest - **** Starting Verify_User_Can_Increase_Product_Quantity *****
+19:26:26.785 [main] DEBUG testcases.CartPageTest - capturing application debug logs....
+19:26:26.797 [main] INFO  testcases.CartPageTest - Click on Sign-in button
+19:26:27.171 [main] INFO  testcases.CartPageTest - Entering valid email and click on continue button ..
+19:26:27.529 [main] INFO  testcases.CartPageTest - Entering valid password and click on sign-in button ..
+19:26:27.736 [main] INFO  testcases.CartPageTest - Clicking on a product displayed on home page..
+19:26:40.662 [main] INFO  testcases.CartPageTest - Clicking on add to basket..
+19:26:43.899 [main] INFO  testcases.CartPageTest - Close the pop up..
+19:26:44.783 [main] INFO  testcases.CartPageTest - Clicking on cart button..
+19:28:17.456 [main] INFO  testcases.CartPageTest - Selecting more quantity..
+19:28:20.727 [main] INFO  testcases.CartPageTest - Checking if the quantity of the product is increased..
+19:28:20.782 [main] INFO  testcases.CartPageTest - Quantity of the product is increased
+19:28:20.782 [main] DEBUG testcases.CartPageTest - Application debug logs ends...
+19:28:20.782 [main] INFO  testcases.CartPageTest - **** Finished Verify_User_Can_Increase_Product_Quantity  ****
+19:57:07.259 [main] INFO  testcases.CartPageTest - **** Starting Verify_Total_Amount_Of_Item_In_The_Cart *****
+19:57:07.266 [main] DEBUG testcases.CartPageTest - capturing application debug logs....
+19:57:07.281 [main] INFO  testcases.CartPageTest - Click on Sign-in button
+19:57:07.676 [main] INFO  testcases.CartPageTest - Entering valid email and click on continue button ..
+19:57:08.244 [main] INFO  testcases.CartPageTest - Entering valid password and click on sign-in button ..
+19:57:08.461 [main] INFO  testcases.CartPageTest - Clicking on a product displayed on home page..
+19:57:18.975 [main] INFO  testcases.CartPageTest - Clicking on add to basket..
+19:57:22.226 [main] INFO  testcases.CartPageTest - Close the pop up..
+19:57:23.142 [main] INFO  testcases.CartPageTest - Clicking on cart button..
+19:58:00.108 [main] INFO  testcases.CartPageTest - Checking the total amount of the item in the cart..
+19:58:10.144 [main] ERROR testcases.CartPageTest - test failure..
+19:58:10.144 [main] DEBUG testcases.CartPageTest - Application debug logs ends...
+19:58:10.145 [main] INFO  testcases.CartPageTest - **** Finished Verify_Total_Amount_Of_Item_In_The_Cart  ****
+19:59:40.173 [main] INFO  testcases.CartPageTest - **** Starting Verify_Total_Amount_Of_Item_In_The_Cart *****
+19:59:40.178 [main] DEBUG testcases.CartPageTest - capturing application debug logs....
+19:59:40.194 [main] INFO  testcases.CartPageTest - Click on Sign-in button
+19:59:40.616 [main] INFO  testcases.CartPageTest - Entering valid email and click on continue button ..
+19:59:40.962 [main] INFO  testcases.CartPageTest - Entering valid password and click on sign-in button ..
+19:59:41.196 [main] INFO  testcases.CartPageTest - Clicking on a product displayed on home page..
+19:59:56.249 [main] INFO  testcases.CartPageTest - Clicking on add to basket..
+19:59:59.549 [main] INFO  testcases.CartPageTest - Close the pop up..
+20:00:00.580 [main] INFO  testcases.CartPageTest - Clicking on cart button..
+20:00:01.443 [main] INFO  testcases.CartPageTest - Checking the total amount of the item in the cart..
+20:00:01.492 [main] INFO  testcases.CartPageTest - Total amount of the item in the cart is displayed

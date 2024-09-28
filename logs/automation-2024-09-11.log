@@ -1,0 +1,56 @@
+00:20:26.231 [main] INFO  testcases.TC_SF_006 - Entering valid password and click on sign-in button ..
+00:20:26.444 [main] INFO  testcases.TC_SF_006 - Entering search text..
+00:20:27.900 [main] INFO  testcases.TC_SF_006 - Clicking on search icon..
+00:20:29.760 [main] INFO  testcases.TC_SF_006 - Checking the search result on the page..
+00:20:29.777 [main] INFO  testcases.TC_SF_006 - Specific number of search results are displayed on one page
+00:20:29.783 [main] DEBUG testcases.TC_SF_006 - Application debug logs ends...
+00:20:29.784 [main] INFO  testcases.TC_SF_006 - **** Finished Verify_Number_Of_Search_Results  ****
+00:22:10.745 [main] INFO  testcases.TC_SF_006 - **** Starting Verify_Number_Of_Search_Results *****
+00:22:10.749 [main] DEBUG testcases.TC_SF_006 - capturing application debug logs....
+00:22:10.777 [main] INFO  testcases.TC_SF_006 - Click on Sign-in button
+00:22:11.156 [main] INFO  testcases.TC_SF_006 - Entering valid email and click on continue button ..
+00:22:11.463 [main] INFO  testcases.TC_SF_006 - Entering valid password and click on sign-in button ..
+00:22:11.679 [main] INFO  testcases.TC_SF_006 - Entering search text..
+00:22:13.131 [main] INFO  testcases.TC_SF_006 - Clicking on search icon..
+00:22:14.720 [main] INFO  testcases.TC_SF_006 - Checking the search result on the page..
+00:22:14.777 [main] INFO  testcases.TC_SF_006 - Specific number of search results are displayed on one page
+00:22:14.781 [main] DEBUG testcases.TC_SF_006 - Application debug logs ends...
+00:22:14.782 [main] INFO  testcases.TC_SF_006 - **** Finished Verify_Number_Of_Search_Results  ****
+23:05:53.257 [main] INFO  testcases.TC_SF_006 - **** Starting Verify_Number_Of_Search_Results *****
+23:05:53.260 [main] DEBUG testcases.TC_SF_006 - capturing application debug logs....
+23:05:53.273 [main] INFO  testcases.TC_SF_006 - Click on Sign-in button
+23:05:53.645 [main] INFO  testcases.TC_SF_006 - Entering valid email and click on continue button ..
+23:05:54.002 [main] INFO  testcases.TC_SF_006 - Entering valid password and click on sign-in button ..
+23:05:54.176 [main] INFO  testcases.TC_SF_006 - Entering search text..
+23:05:55.772 [main] INFO  testcases.TC_SF_006 - Clicking on search icon..
+23:05:57.366 [main] INFO  testcases.TC_SF_006 - Checking the search result on the page..
+23:05:57.386 [main] INFO  testcases.TC_SF_006 - Specific number of search results is displayed on one page
+23:05:57.389 [main] DEBUG testcases.TC_SF_006 - Application debug logs ends...
+23:05:57.389 [main] INFO  testcases.TC_SF_006 - **** Finished Verify_Number_Of_Search_Results  ****
+23:07:30.740 [main] INFO  testcases.TC_SF_006 - **** Starting Verify_Number_Of_Search_Results *****
+23:07:30.747 [main] DEBUG testcases.TC_SF_006 - capturing application debug logs....
+23:07:30.776 [main] INFO  testcases.TC_SF_006 - Click on Sign-in button
+23:07:31.142 [main] INFO  testcases.TC_SF_006 - Entering valid email and click on continue button ..
+23:07:31.443 [main] INFO  testcases.TC_SF_006 - Entering valid password and click on sign-in button ..
+23:07:31.639 [main] INFO  testcases.TC_SF_006 - Entering search text..
+23:07:33.026 [main] INFO  testcases.TC_SF_006 - Clicking on search icon..
+23:07:34.562 [main] INFO  testcases.TC_SF_006 - Checking the search result on the page..
+23:07:34.608 [main] INFO  testcases.TC_SF_006 - Specific number of search results is displayed on one page
+23:07:34.611 [main] DEBUG testcases.TC_SF_006 - Application debug logs ends...
+23:07:34.611 [main] INFO  testcases.TC_SF_006 - **** Finished Verify_Number_Of_Search_Results  ****
+23:07:54.154 [main] INFO  testcases.TC_SF_006 - **** Starting Verify_Number_Of_Search_Results *****
+23:07:54.157 [main] DEBUG testcases.TC_SF_006 - capturing application debug logs....
+23:07:54.167 [main] INFO  testcases.TC_SF_006 - Click on Sign-in button
+23:07:54.605 [main] INFO  testcases.TC_SF_006 - Entering valid email and click on continue button ..
+23:07:54.992 [main] INFO  testcases.TC_SF_006 - Entering valid password and click on sign-in button ..
+23:07:55.190 [main] INFO  testcases.TC_SF_006 - Entering search text..
+23:07:56.555 [main] INFO  testcases.TC_SF_006 - Clicking on search icon..
+23:07:58.211 [main] INFO  testcases.TC_SF_006 - Checking the search result on the page..
+23:07:58.248 [main] INFO  testcases.TC_SF_006 - Specific number of search results is displayed on one page
+23:07:58.252 [main] DEBUG testcases.TC_SF_006 - Application debug logs ends...
+23:07:58.252 [main] INFO  testcases.TC_SF_006 - **** Finished Verify_Number_Of_Search_Results  ****
+23:11:47.936 [main] INFO  testcases.TC_SF_007 - **** Starting Verify_Presence_Of_Navigation_Buttons *****
+23:11:47.940 [main] DEBUG testcases.TC_SF_007 - capturing application debug logs....
+23:11:47.953 [main] INFO  testcases.TC_SF_007 - Click on Sign-in button
+23:11:48.310 [main] INFO  testcases.TC_SF_007 - Entering valid email and click on continue button ..
+23:11:48.642 [main] INFO  testcases.TC_SF_007 - Entering valid password and click on sign-in button ..
